@@ -61130,7 +61130,7 @@ A.U1.prototype={
 $1(a){return A.auz("KEITA FUJIYAMA","WORDBOOK",a.c,this.a)},
 $S:387}
 A.U4.prototype={
-$0(){return A.aa7("https://github.com/ketafujiyama/woodbook/")},
+$0(){return A.aa7("https://github.com/ketafujiyama/woodbook-dart/")},
 $S:0}
 A.oT.prototype={
 D(a){return A.ae1(new A.YP(this,a),t.ai)}}

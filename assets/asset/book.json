@@ -176,7 +176,7 @@
           "answers": 0,
           "corrects": 0,
           "description": "オンラインモールとは、複数の電子商店(オンラインショップ)が軒を連ねるWebサイトのこと。オンラインモールは、消費者側には複数店舗の商品を縦断して検索が行えたり決済や配送などを一括して行えるなどのメリットがあり、個々の電子商店にとってはオンラインモールのもつ集客力を活かせるというメリットがある。",
-          "hint": "【online mall】電子商店街 / 電子モール / オンラインショッピングモール / online shopping mall / サイバーモール / cybe rmall / バーチャルモール / virtual mall / Webモール / web mall / ウェブモール / オンライン商店街 / 仮想商店街",
+          "hint": "【online mall】電子商店街 / 電子モール / オンラインショッピングモール / online shopping mall / サイバーモール / cyber mall / バーチャルモール / virtual mall / Webモール / web mall / ウェブモール / オンライン商店街 / 仮想商店街",
           "index": 21,
           "word": "オンラインモール"
         },
@@ -1207,7 +1207,7 @@
         {
           "answers": 0,
           "corrects": 0,
-          "description": "URLパラメータとは、WebブラウザなどがWebサーバに送信するデータをURLの末尾に特定の形式で表記したもの。Webアプリケーションなどでクライアントからサーバにパラメータを渡すのに使われる表記法で、URLの末尾に「?」マークを付け、続けて「名前=値」の形式で記述する。値が複数あるときは「&」で区切り、例えばhttp: /  / example.com / foo / var.php?name1=value1&name2=value2のように記述する。",
+          "description": "URLパラメータとは、WebブラウザなどがWebサーバに送信するデータをURLの末尾に特定の形式で表記したもの。Webアプリケーションなどでクライアントからサーバにパラメータを渡すのに使われる表記法で、URLの末尾に「?」マークを付け、続けて「名前=値」の形式で記述する。値が複数あるときは「&」で区切り、例えばhttp://example.com/foo/var.php?name1=value1&name2=value2のように記述する。",
           "hint": "【URL parameter】URL引数 / URLクエリパラメータ / クエリ文字列 / リクエストパラメータ",
           "index": 150,
           "word": "URLパラメータ"
